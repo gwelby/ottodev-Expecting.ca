@@ -1,0 +1,17 @@
+body {
+      font-family: 'Merrifield', serif;
+      background-color: #FFFFFF;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      font-family: 'Montserrat', sans-serif;
+      color: #9F7AEA;
+    }
+
+    .App {
+      text-align: center;
+      padding: 20px;
+    }

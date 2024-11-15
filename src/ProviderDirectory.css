@@ -1,0 +1,58 @@
+.provider-directory {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .provider-directory h1 {
+      font-size: 2.5rem;
+      margin-bottom: 40px;
+    }
+
+    .search {
+      margin-bottom: 40px;
+    }
+
+    .search h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    .search input {
+      padding: 10px;
+      width: 300px;
+      margin-right: 10px;
+      border: 1px solid #E2E8F0;
+      border-radius: 4px;
+    }
+
+    .search button {
+      background-color: #9F7AEA;
+      color: #FFFFFF;
+      border: none;
+      padding: 10px 20px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    .search button:hover {
+      background-color: #764abc;
+    }
+
+    .providers, .reviews {
+      margin-top: 40px;
+    }
+
+    .providers h2, .reviews h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    .providers div, .reviews div {
+      background-color: #FFFFFF;
+      border: 1px solid #E2E8F0;
+      padding: 20px;
+      border-radius: 8px;
+      width: 300px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+    }

@@ -1,0 +1,80 @@
+.home {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .hero {
+      background-color: #9F7AEA;
+      color: #FFFFFF;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+      font-family: 'Merrifield', serif;
+    }
+
+    .hero button {
+      background-color: #A8E6CF;
+      color: #FFFFFF;
+      border: none;
+      padding: 10px 20px;
+      font-size: 1rem;
+      cursor: pointer;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    .hero button:hover {
+      background-color: #84cc16;
+    }
+
+    .timeline, .providers, .resources, .experts {
+      margin-top: 40px;
+      text-align: left;
+    }
+
+    .timeline h2, .providers h2, .resources h2, .experts h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    .timeline-tool, .provider-list, .resource-list, .expert-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+
+    .timeline-tool p, .provider-card, .resource-card, .expert-card {
+      background-color: #FFFFFF;
+      border: 1px solid #E2E8F0;
+      padding: 20px;
+      border-radius: 8px;
+      width: 300px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      font-family: 'Merrifield', serif;
+    }
+
+    .timeline-tool p {
+      text-align: center;
+    }
+
+    .provider-card h3, .resource-card h3, .expert-card h3 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    .provider-card p, .resource-card p, .expert-card p {
+      font-size: 1rem;
+      margin-bottom: 5px;
+    }

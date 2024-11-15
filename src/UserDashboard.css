@@ -1,0 +1,28 @@
+.user-dashboard {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .user-dashboard h1 {
+      font-size: 2.5rem;
+      margin-bottom: 40px;
+    }
+
+    .timeline, .resources, .appointments, .notifications {
+      margin-top: 40px;
+    }
+
+    .timeline h2, .resources h2, .appointments h2, .notifications h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    .timeline div, .resources div, .appointments div, .notifications div {
+      background-color: #FFFFFF;
+      border: 1px solid #E2E8F0;
+      padding: 20px;
+      border-radius: 8px;
+      width: 300px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+    }

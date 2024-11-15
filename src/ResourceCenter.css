@@ -1,0 +1,28 @@
+.resource-center {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .resource-center h1 {
+      font-size: 2.5rem;
+      margin-bottom: 40px;
+    }
+
+    .articles, .guides, .videos, .downloads {
+      margin-top: 40px;
+    }
+
+    .articles h2, .guides h2, .videos h2, .downloads h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    .articles div, .guides div, .videos div, .downloads div {
+      background-color: #FFFFFF;
+      border: 1px solid #E2E8F0;
+      padding: 20px;
+      border-radius: 8px;
+      width: 300px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+    }
